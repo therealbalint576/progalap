@@ -1,3 +1,0 @@
-D:/clino project/hazzi8/cmake-build-debug/CMakeFiles/untitled18.dir
-D:/clino project/hazzi8/cmake-build-debug/CMakeFiles/edit_cache.dir
-D:/clino project/hazzi8/cmake-build-debug/CMakeFiles/rebuild_cache.dir
